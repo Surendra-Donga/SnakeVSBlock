@@ -4,10 +4,9 @@
 * Cocos Creator v3.8.5
 
 ### Setup & Build Steps
-1.  Unzip the project file.
-2.  Open the project folder in Cocos Creator.
-3.  The game can be run directly in the editor by opening the `GameplayScene` and pressing the Play button.
-4.  A pre-built web version is included in the `/build/web-desktop` folder. Open the `index.html` file in a web browser to play.
+1.  Open the project folder in Cocos Creator.
+2.  The game can be run directly in the editor by opening the `GameplayScene` and pressing the Play button.
+3.  A pre-built web version is included in the `/build/web-desktop` folder. Open the `index.html` file in a web browser to play.
 
 ### Brief Architecture
 The project is structured into several modular components:
