@@ -1,0 +1,25 @@
+{
+  "__version__": "1.0.6",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "SNAKE"
+      },
+      {
+        "index": 2,
+        "name": "BLOCK"
+      },
+      {
+        "index": 3,
+        "name": "PICKUP"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 12,
+      "2": 2,
+      "3": 2
+    }
+  }
+}
